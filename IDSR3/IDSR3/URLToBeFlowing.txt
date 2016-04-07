@@ -1,0 +1,2 @@
+﻿https://www.scottbrady91.com/Identity-Server/Identity-Server-3-Standalone-Implementation-Part-1
+https://identityserver.github.io/Documentation/docs/overview/mvcGettingStarted.html
